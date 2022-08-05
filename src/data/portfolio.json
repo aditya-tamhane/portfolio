@@ -1,0 +1,23 @@
+{
+    "portfolio": [
+        {
+            "cover": "/portfolio/1/one.png",
+            "title": "CloudPoint",
+            "description": "React, OpenWeatherAPI, RapidAPI",
+            "url": "https://aditya-weather-app.netlify.app"
+        },
+        {
+            "cover": "/portfolio/2/two.png",
+            "title": "AmazonClone",
+            "description": "React, Firebase, Stripe",
+            "url": "https://aditya-tamhane.github.io/amazon--clone/"
+        },
+        {
+            "cover": "/portfolio/3/three.png",
+            "title": "Portfolio Website",
+            "description": "React, EmailJS, SCSS",
+            "url": "https://aditya-tamhane.github.io/amazon--clone/"
+        }
+        
+    ]
+}
